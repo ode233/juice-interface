@@ -20,9 +20,9 @@ Juicebox frontend application.
   cd juice-juicehouse
   ```
 
-1.  Create an `.env` file in the root directory which mirrors the `.example.env` file.
+2.  Create an `.env` file in the root directory which mirrors the `.example.env` file.
 
-1.  Install dependencies and start the app:
+3.  Install dependencies and start the app:
 
   ```
   yarn install
